@@ -9,6 +9,7 @@ que demuestra ser un pagador confiable.
 En un mundo donde la gestión de riesgos es esencial, nuestro objetivo ha sido proporcionar a la institución herramientas innovadoras y predictivas para tomar decisiones 
 fundamentadas.
 
+
 **<ins>OBJETIVOS</ins>**
 
 1. La importancia de reducir el riesgo crediticio es clave en el sector financiero. Nuestro cliente, una institución financiera alemana, ha reconocido la necesidad de
@@ -17,8 +18,11 @@ fundamentadas.
 2. La misión principal es identificar y clasificar a los clientes en dos categorías: "Buen Cliente (0)" y "Mal Cliente (1)"
    
 3. Este análisis permitirá a la institución tomar decisiones informadas y mitigar el riesgo de pérdidas crediticias.
+   
 
 ![image](https://github.com/davidcarrillo10288/Credit-Scoring-Prediction/assets/104275645/786104a3-01c0-4d39-b4a5-8de4587717e4)
+
+
 
 **<ins>ETAPAS DEL PROYECTO</ins>**
 
@@ -47,7 +51,8 @@ fundamentadas.
 > Selección de los Modelos: Elección de algoritmos de machine learning adecuados para este tipo de desafíos.
 > Entrenamiento y Prueba: Utilización de conjuntos de Entrenamiento y Prueba para optimizar el rendimiento del modelo.
 
-![image](https://github.com/davidcarrillo10288/Credit-Scoring-Prediction/assets/104275645/dc35636b-d02b-4eb2-a8db-033cd8001ac5)
+
+![image](https://github.com/davidcarrillo10288/Credit-Scoring-Prediction/assets/104275645/e597d854-4d9e-4e9b-a7b4-c98677920911)
 
 
 5. <ins>Optimización del Modelo:</ins>
