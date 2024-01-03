@@ -28,9 +28,9 @@ fundamentadas.
 
 1. <ins>Planificación del Proyecto:</ins>
 
-> Definición clara del desafío de la institución financiera.
-> Identificación y adquisición de conjuntos de datos relevantes.
-> Establecimiento de metas, modelos y métricas clave para evaluar el rendimiento del modelo.
+* > Definición clara del desafío de la institución financiera.
+* > Identificación y adquisición de conjuntos de datos relevantes.
+* > Establecimiento de metas, modelos y métricas clave para evaluar el rendimiento del modelo.
 
 
 2. <ins>Preprocesamiento de Datos:</ins>
