@@ -28,28 +28,28 @@ fundamentadas.
 
 1. <ins>Planificación del Proyecto:</ins>
 
-* > Definición clara del desafío de la institución financiera.
-* > Identificación y adquisición de conjuntos de datos relevantes.
-* > Establecimiento de metas, modelos y métricas clave para evaluar el rendimiento del modelo.
+* Definición clara del desafío de la institución financiera.
+* Identificación y adquisición de conjuntos de datos relevantes.
+* Establecimiento de metas, modelos y métricas clave para evaluar el rendimiento del modelo.
 
 
 2. <ins>Preprocesamiento de Datos:</ins>
 
-> Limpieza de Datos: Manejo de valores atípicos, datos faltantes y errores.
-> Transformación de Variables: Normalización, codificación y discretización de variables categóricas y numéricas.
-> Feature Engineering: Creación de nuevas variables a partir de las existentes.
+* Limpieza de Datos: Manejo de valores atípicos, datos faltantes y errores.
+* Transformación de Variables: Normalización, codificación y discretización de variables categóricas y numéricas.
+* Feature Engineering: Creación de nuevas variables a partir de las existentes.
 
 
 3. <ins>Análisis Exploratorio de Datos (EDA):</ins>
 
-> Exploración detallada de los datos para comprender la distribución, relaciones y patrones.
-> Identificación de Variables Significativas: Selección de características clave para el análisis.
+* Exploración detallada de los datos para comprender la distribución, relaciones y patrones.
+* Identificación de Variables Significativas: Selección de características clave para el análisis.
 
 
 4. <ins>Desarrollo del Modelo:</ins>
 
-> Selección de los Modelos: Elección de algoritmos de machine learning adecuados para este tipo de desafíos.
-> Entrenamiento y Prueba: Utilización de conjuntos de Entrenamiento y Prueba para optimizar el rendimiento del modelo.
+* Selección de los Modelos: Elección de algoritmos de machine learning adecuados para este tipo de desafíos.
+* Entrenamiento y Prueba: Utilización de conjuntos de Entrenamiento y Prueba para optimizar el rendimiento del modelo.
 
 
 ![image](https://github.com/davidcarrillo10288/Credit-Scoring-Prediction/assets/104275645/e597d854-4d9e-4e9b-a7b4-c98677920911)
@@ -57,7 +57,7 @@ fundamentadas.
 
 5. <ins>Optimización del Modelo:</ins>
 
-> Ajuste de Hiperparámetros: Optimización de la configuración del modelo.
-> Comparativa entre Métricas obtenidas antes y después de la aplicación de Hiperparámetros
+* Ajuste de Hiperparámetros: Optimización de la configuración del modelo.
+* Comparativa entre Métricas obtenidas antes y después de la aplicación de Hiperparámetros
 
 ![image](https://github.com/davidcarrillo10288/Credit-Scoring-Prediction/assets/104275645/94954807-3575-4e7e-9012-35fdff91106a)
