@@ -1,5 +1,5 @@
 # Credit-Scoring-Prediction
-<div align=“center”> <img src=![image](https://github.com/davidcarrillo10288/Credit-Scoring-Prediction/assets/104275645/331eefc1-b352-4299-8590-8621f2087879) width=“200” height=“200”></div>
+<div align=“center”> <img src="![image](https://github.com/davidcarrillo10288/Credit-Scoring-Prediction/assets/104275645/331eefc1-b352-4299-8590-8621f2087879)" width=“200” height=“200”></div>
                
 
 Presentaremos los resultados y las conclusiones de nuestro proyecto de análisis de riesgo crediticio para una institución financiera alemana. Como científicos de datos, 
